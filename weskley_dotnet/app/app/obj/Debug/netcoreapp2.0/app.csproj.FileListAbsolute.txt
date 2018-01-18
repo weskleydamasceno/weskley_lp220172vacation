@@ -1,0 +1,13 @@
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\bin\Debug\netcoreapp2.0\app.deps.json
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.json
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\bin\Debug\netcoreapp2.0\app.runtimeconfig.dev.json
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\bin\Debug\netcoreapp2.0\app.dll
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\bin\Debug\netcoreapp2.0\app.pdb
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\bin\Debug\netcoreapp2.0\bll.dll
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\bin\Debug\netcoreapp2.0\bll.pdb
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\obj\Debug\netcoreapp2.0\app.csprojResolveAssemblyReference.cache
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\obj\Debug\netcoreapp2.0\app.csproj.CoreCompileInputs.cache
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\obj\Debug\netcoreapp2.0\app.AssemblyInfoInputs.cache
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\obj\Debug\netcoreapp2.0\app.AssemblyInfo.cs
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\obj\Debug\netcoreapp2.0\app.dll
+C:\Users\weskley\Desktop\Atividade_Ferias\weskley_lp220172vacation\weskley_dotnet\app\app\obj\Debug\netcoreapp2.0\app.pdb
